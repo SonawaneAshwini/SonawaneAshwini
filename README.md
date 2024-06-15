@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Node JS, React JS,**
+- 🌱 I’m currently learning **reactnative**
 
-- 💬 Ask me about **Java, Node JS**
+- 💬 Ask me about **Java, Python**
 
 - 📫 How to reach me **ashwinisonawane@gmail.com**
 
