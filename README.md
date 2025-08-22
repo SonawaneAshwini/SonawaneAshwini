@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **reactnative**
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java, C++**
 
 - 📫 How to reach me **ashwinisonawane9853@gmail.com**
 
-- ⚡ Fun fact **I speak three languages: English, C++, and Python!**
+- ⚡ Fun fact **I speak three languages: English, C++, and Java!**
 
 <p align="center">
   <img src="line.gif">
