@@ -23,7 +23,7 @@
   <img src="line.gif">
 </p>
 
-<h2 🌐 Connect with Me
+ 🌐 Connect with Me
 
 <p align="center">
 
@@ -46,7 +46,7 @@
 </p>
 
 
-<h2  💻 Languages & Tools
+💻 Languages & Tools
 
 <p align="center">
 
