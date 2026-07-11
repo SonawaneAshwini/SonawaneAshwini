@@ -38,6 +38,12 @@
   <img src="line.gif">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonawaneashwini&show_icons=true&locale=en&layout=compact" alt="sonawaneashwini" /></p>
+<# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SonawaneAshwini&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonawaneashwini&" alt="sonawaneashwini" /></p>
