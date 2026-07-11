@@ -38,7 +38,7 @@
   <img src="line.gif">
 </p>
 
-<# 🔥 GitHub Streak
+<🔥 GitHub Streak
 
 <p align="center">
 
@@ -46,4 +46,3 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonawaneashwini&" alt="sonawaneashwini" /></p>
