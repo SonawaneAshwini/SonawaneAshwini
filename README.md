@@ -8,7 +8,16 @@
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=SonawaneAshwini&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
 
+## 👩‍💻 About Me
+
+- 🌱 Currently learning **React Native**
+- 💻 Passionate about **Web Development**
+- 💬 Ask me about **Java, C++, HTML, CSS, JavaScript**
+- 📫 Email: **ashwinisonawane9853@gmail.com**
+- ⚡ Fun Fact: **I speak three languages: English, C++, and Java 😄**
+  
 
 <p align="center">
   <img src="line.gif">
