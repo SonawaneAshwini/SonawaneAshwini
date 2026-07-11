@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ashwini Sonawane</h1>
 <h3 align="center">Dynamic Web: Crafting Interactive and Responsive Experiences</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonawaneashwini&label=Profile%20views&color=0e75b6&style=flat" alt="sonawaneashwini" /> </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;React+Native+Learner;Java+%7C+C%2B%2B+Programmer;Always+Learning+New+Things" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
+<p align="center">
 
-- 🌱 I’m currently learning **reactnative**
+<img src="https://komarev.com/ghpvc/?username=SonawaneAshwini&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
-- 💬 Ask me about **Java, C++**
-
-- 📫 How to reach me **ashwinisonawane9853@gmail.com**
-
-- ⚡ Fun fact **I speak three languages: English, C++, and Java!**
 
 <p align="center">
   <img src="line.gif">
